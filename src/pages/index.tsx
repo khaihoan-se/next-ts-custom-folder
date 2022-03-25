@@ -5,7 +5,7 @@ const Home: NextPage = () => {
    return (
       <>
          <Head>
-            <title>React | Bilibili</title>
+            <title>Bilibili</title>
          </Head>
          <div>
             Hello Bilibili | React
