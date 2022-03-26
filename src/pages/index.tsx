@@ -1,3 +1,4 @@
+import Header from '@/components/partials/Header'
 import type { NextPage } from 'next'
 import Head from 'next/head'
 
@@ -7,9 +8,7 @@ const Home: NextPage = () => {
          <Head>
             <title>Bilibili</title>
          </Head>
-         <div>
-            Hello Bilibili | React
-         </div>
+         <Header />
       </>
    )
 }
